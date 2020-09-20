@@ -11,10 +11,14 @@
 <body>
 <div>
 <h1>The Earth Sciences</h1>
+<br>
 <p>Mother Earth is consisted of various supriseful suprises</p>
+<br>
 <a href=" https://www.bartleby.com/topics/mother-earth">Mother Earth</a>
-<img src="http://nie-images.s3.amazonaws.com/gall_content/2018/6/2018_6$largeimg11_Jun_2018_130202657.jpg" width="100", height="300">
+<br>
+<img src="http://nie-images.s3.amazonaws.com/gall_content/2018/6/2018_6$largeimg11_Jun_2018_130202657.jpg" width="300", height="300">
 </div>
+<br>
 <button><strong>LIKE</strong></button>
 <h4><b>One like equals to a saving for our home Earth</b></h4>
 <input placeholder="E-mail address", type="password">
